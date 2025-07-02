@@ -14,7 +14,7 @@ Object-Oriented Programming (OOP)
 File I/O for data storage
 Command Line Interface (CLI)
 Installation Instructions:
-Clone the repository: git clone https://github.com/yourusername/StudentEmailManagementSystem.git
+Clone the repository: git clone https://github.com/Ramcharantejagit/Student-Email-Management-System.git
 Navigate to the project directory: cd StudentEmailManagementSystem
 Compile the Java files: javac emailapp/*.java
 Run the application: java emailapp.EmailApp

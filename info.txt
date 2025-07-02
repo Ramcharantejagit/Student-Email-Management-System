@@ -1,0 +1,10 @@
+First Name: sowmya
+Last Name: goud
+Roll No: 238r1a12m2
+Department: IT
+Personal Email: sowmya.goud@it.department.com
+Domain Email: 238r1a12m2@cmrec.ac.in
+Personal Email Password: sowmya@0593
+Domain Password: 238r1a12m2
+Mailbox Capacity: 500mb
+Alternate Email: sowmyapersonal@gmail.com

@@ -18,3 +18,11 @@ Clone the repository: git clone https://github.com/Ramcharantejagit/Student-Emai
 Navigate to the project directory: cd StudentEmailManagementSystem
 Compile the Java files: javac emailapp/*.java
 Run the application: java emailapp.EmailApp
+
+![Screenshot (14)](https://github.com/user-attachments/assets/a27b00f4-8d98-4132-9d23-5afed9f2d6bc)
+
+![Screenshot (15)](https://github.com/user-attachments/assets/5d02b8db-a0c7-47bb-b984-b9d3e467c1a7)
+
+![Screenshot (13)](https://github.com/user-attachments/assets/d73100cf-2bd8-4926-a4df-14116c01e919)
+
+
